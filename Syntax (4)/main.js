@@ -6,3 +6,7 @@ let y;
 x = 5;
 y = 6;
 let z = x + y;
+
+// In a programming language, variables are used to store data values. JavaScript uses the keywords 'var', 'let' and 'const' to declare variables. Example:
+let x;
+x = 6;
