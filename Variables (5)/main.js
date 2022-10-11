@@ -22,3 +22,6 @@ let total = price1 + price2;
 var carName;
 // To assign a value to the variable, use the equal sign:
 carName = "Audi"
+
+// One Statement, Many Variables. Example:
+let person = "Neal Waga", car = "BMW", price = 900;
