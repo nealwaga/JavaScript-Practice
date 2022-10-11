@@ -17,3 +17,8 @@ k = i + j;
 const price1 = 30;
 const price2 = 50;
 let total = price1 + price2;
+
+// Declaring a JavaScript variable
+var carName;
+// To assign a value to the variable, use the equal sign:
+carName = "Audi"
