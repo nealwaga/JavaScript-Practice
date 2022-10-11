@@ -10,3 +10,7 @@ let z = x + y;
 // In a programming language, variables are used to store data values. JavaScript uses the keywords 'var', 'let' and 'const' to declare variables. Example:
 let x;
 x = 6;
+
+// Operators
+// JavaScript uses arithmetic operators ( + - * / ) to compute values:
+(5 + 6) * 10;
