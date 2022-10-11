@@ -18,3 +18,6 @@ x = 6;
 let a, b;
 a = 5;
 b = 6;
+
+// Expressions
+"John" + "Doe"
