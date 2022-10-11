@@ -11,3 +11,9 @@ let c = a + b;
 i = 8;
 j = 9;
 k = i + j;
+
+// When to Use JavaScript const?
+// If you want a general rule: always declare variables with const. If you think the value of the variable can change, use let. Exmaple:
+const price1 = 30;
+const price2 = 50;
+let total = price1 + price2;
