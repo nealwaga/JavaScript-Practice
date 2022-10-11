@@ -12,3 +12,11 @@ const cars = ["Audi", "BMW", "Mercedes"];
 cars[0] = "Rolls Royce";
 // You can add an element
 cars.push("Volvo");
+
+// Constant Objects
+// You can create a const object:
+const car = {type:"Range Rover", colour:"white", price:950};
+// You can change a property:
+car.colour =  "black";
+// You can add a property:
+cars.owner = "Neal Waga";
