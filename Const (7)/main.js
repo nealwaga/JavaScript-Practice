@@ -4,6 +4,7 @@
 
 const PI = 3.14;
 
+
 // Constant Objects and Arrays
 // Constant Arrays
 // You can create a costant array:
@@ -13,6 +14,7 @@ cars[0] = "Rolls Royce";
 // You can add an element
 cars.push("Volvo");
 
+
 // Constant Objects
 // You can create a const object:
 const car = {type:"Range Rover", colour:"white", price:950};
@@ -20,3 +22,16 @@ const car = {type:"Range Rover", colour:"white", price:950};
 car.colour =  "black";
 // You can add a property:
 cars.owner = "Neal Waga";
+
+
+// Block Scope
+// Declaring a variable with const is similar to let when it comes to Block Scope.
+// The x declared in the block, in this example, is not the same as the x declared outside the block:
+const x = 10;
+// Here x is 10
+{
+const x = 2;
+// Here x is 2
+}
+
+// Here x is 10
