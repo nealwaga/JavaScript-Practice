@@ -14,3 +14,7 @@ x = 6;
 // Operators
 // JavaScript uses arithmetic operators ( + - * / ) to compute values:
 (5 + 6) * 10;
+
+let a, b;
+a = 5;
+b = 6;
