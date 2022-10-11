@@ -21,3 +21,8 @@ b = 6;
 
 // Expressions
 "John" + "Doe"
+
+// JavaScript is case sensitive
+let lastname, lastName;
+lastName = "Waga";
+lastname = "Muluta";
