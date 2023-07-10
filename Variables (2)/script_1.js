@@ -1,10 +1,10 @@
-// You can declare variables in JavaSCript in 3 ways:
+// You can declare variables in JavaScript in 3 ways:
 // var, let & const 
-// Variables declared wuth 'let' and 'const' have block scope - means that they are only accessible within the block where they are defined, as well as any nested blocks inside that block.
+// Variables declared with 'let' and 'const' have block scope - means that they are only accessible within the block where they are defined, as well as any nested blocks inside that block.
 
 
 // Using var
-var a = 'Hello';
+var a = 'Hello,';
 var b = 'my name is Neal';
 var c = a + ' ' + b;
 console.log(c);
